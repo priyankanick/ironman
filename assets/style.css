@@ -1,4 +1,9 @@
 .poster{
     height: 400px;
     width: 300px;
+    object-fit: cover;
+}
+
+.trailer iframe{
+    width:100%;
 }
